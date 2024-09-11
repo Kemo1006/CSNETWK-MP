@@ -1,5 +1,5 @@
 # File Exchange System
-A simple command-line file exchange system developed as a Machine Project for the DLSU CSNETWK Course (T3 2023-2024)
+A File Exchange System enables clients to store, share, and fetch files from a single server using TCP or UDP protocol. The File Exchange System will consist of a server and client applications.
 
 ## Members
 - Ong, Kyle Edward M.
